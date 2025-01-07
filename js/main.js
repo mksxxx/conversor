@@ -4,7 +4,7 @@ function calc(){
     let c2 = tmp1 + 273.15;
 
     document.getElementById('r1').value = c1
-    document.getElementById('r2').value = c2
+    document.getElementById('resultado').value = c2
 
     console.log(tmp1);
 }
