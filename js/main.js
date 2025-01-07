@@ -1,5 +1,3 @@
-
-
 function calc(){
 
     let tmp1 = document.getElementById('tmp1').value;
@@ -10,4 +8,6 @@ function calc(){
     document.getElementById('r2').value = c2
 
     console.log(tmp1);      
+
+
 }
